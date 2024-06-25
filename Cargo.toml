@@ -1,7 +1,12 @@
 [package]
-name = "derive-into"
+name = "derive-to-usize"
 version = "0.1.0"
 edition = "2021"
+readme = "README.md"
+description = "Derive for From and Into usize"
+repository = "https://github.com/abss-witch/derive-to-usize"
+keywords = ["enum", "into", "from", "usize"]
+license = "MIT OR Apache-2.0"
 
 [lib]
 proc-macro = true
